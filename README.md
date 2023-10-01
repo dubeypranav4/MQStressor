@@ -4,6 +4,10 @@
 
 QueueBenchMaster is a modular and extensible framework designed for benchmarking and stress-testing various message queue technologies. Built on Elixir/Erlang for optimal parallelism and load generation, this framework aims to provide comprehensive insights into the performance metrics like latency, throughput, CPU usage, and memory consumption. Dockerized for ease of setup and execution.
 
+## Related artifacts
+
+[Benchmarking Message Queues](https://www.mdpi.com/2673-4001/4/2/18)
+
 ## Features
 
 - **Modular Design**: Easily plug in different message queue implementations.
